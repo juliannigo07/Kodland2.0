@@ -3,19 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\Julian\\Desktop\\Kodland2.0\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E8AD4E4C-1810-1233-29AD-1A1E2C333F9A}|Assembly-CSharp.csproj|C:\\Users\\Julian\\Desktop\\Kodland2.0\\assets\\proyecto propio\\scrips\\proyectil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E8AD4E4C-1810-1233-29AD-1A1E2C333F9A}|Assembly-CSharp.csproj|c:\\users\\julian\\desktop\\kodland2.0\\assets\\proyecto propio\\scrips\\proyectil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8AD4E4C-1810-1233-29AD-1A1E2C333F9A}|Assembly-CSharp.csproj|solutionrelative:assets\\proyecto propio\\scrips\\proyectil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E8AD4E4C-1810-1233-29AD-1A1E2C333F9A}|Assembly-CSharp.csproj|c:\\users\\julian\\desktop\\kodland2.0\\assets\\proyecto propio\\scrips\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8AD4E4C-1810-1233-29AD-1A1E2C333F9A}|Assembly-CSharp.csproj|solutionrelative:assets\\proyecto propio\\scrips\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8AD4E4C-1810-1233-29AD-1A1E2C333F9A}|Assembly-CSharp.csproj|C:\\Users\\Julian\\Desktop\\Kodland2.0\\assets\\proyecto propio\\scrips\\disparojugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8AD4E4C-1810-1233-29AD-1A1E2C333F9A}|Assembly-CSharp.csproj|solutionrelative:assets\\proyecto propio\\scrips\\disparojugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8AD4E4C-1810-1233-29AD-1A1E2C333F9A}|Assembly-CSharp.csproj|c:\\users\\julian\\desktop\\kodland2.0\\assets\\proyecto propio\\scrips\\camerashake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E8AD4E4C-1810-1233-29AD-1A1E2C333F9A}|Assembly-CSharp.csproj|c:\\users\\julian\\desktop\\kodland2.0\\assets\\proyecto propio\\scrips\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8AD4E4C-1810-1233-29AD-1A1E2C333F9A}|Assembly-CSharp.csproj|solutionrelative:assets\\proyecto propio\\scrips\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AD4E4C-1810-1233-29AD-1A1E2C333F9A}|Assembly-CSharp.csproj|C:\\Users\\Julian\\Desktop\\Kodland2.0\\assets\\proyecto propio\\scrips\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8AD4E4C-1810-1233-29AD-1A1E2C333F9A}|Assembly-CSharp.csproj|solutionrelative:assets\\proyecto propio\\scrips\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AD4E4C-1810-1233-29AD-1A1E2C333F9A}|Assembly-CSharp.csproj|C:\\Users\\Julian\\Desktop\\Kodland2.0\\assets\\proyecto propio\\scrips\\camerashake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8AD4E4C-1810-1233-29AD-1A1E2C333F9A}|Assembly-CSharp.csproj|solutionrelative:assets\\proyecto propio\\scrips\\camerashake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,11 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "C:\\Users\\Julian\\Desktop\\Kodland2.0\\Assets\\Proyecto propio\\Scrips\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Proyecto propio\\Scrips\\CameraFollow.cs",
+              "ToolTip": "C:\\Users\\Julian\\Desktop\\Kodland2.0\\Assets\\Proyecto propio\\Scrips\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\Proyecto propio\\Scrips\\CameraFollow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T18:54:46.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "CameraShake.cs",
               "DocumentMoniker": "C:\\Users\\Julian\\Desktop\\Kodland2.0\\Assets\\Proyecto propio\\Scrips\\CameraShake.cs",
               "RelativeDocumentMoniker": "Assets\\Proyecto propio\\Scrips\\CameraShake.cs",
@@ -38,18 +55,17 @@
               "RelativeToolTip": "Assets\\Proyecto propio\\Scrips\\CameraShake.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAgwCUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T18:11:42.009Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-02T18:11:42.009Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "DisparoJugador.cs",
               "DocumentMoniker": "C:\\Users\\Julian\\Desktop\\Kodland2.0\\Assets\\Proyecto propio\\Scrips\\DisparoJugador.cs",
               "RelativeDocumentMoniker": "Assets\\Proyecto propio\\Scrips\\DisparoJugador.cs",
               "ToolTip": "C:\\Users\\Julian\\Desktop\\Kodland2.0\\Assets\\Proyecto propio\\Scrips\\DisparoJugador.cs",
               "RelativeToolTip": "Assets\\Proyecto propio\\Scrips\\DisparoJugador.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-02T18:04:57.808Z",
               "EditorCaption": ""
@@ -62,14 +78,14 @@
               "RelativeDocumentMoniker": "Assets\\Proyecto propio\\Scrips\\Proyectil.cs",
               "ToolTip": "C:\\Users\\Julian\\Desktop\\Kodland2.0\\Assets\\Proyecto propio\\Scrips\\Proyectil.cs",
               "RelativeToolTip": "Assets\\Proyecto propio\\Scrips\\Proyectil.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwCAAAABMAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCwAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-02T18:04:45.562Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "GameManager.cs",
               "DocumentMoniker": "C:\\Users\\Julian\\Desktop\\Kodland2.0\\Assets\\Proyecto propio\\Scrips\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Proyecto propio\\Scrips\\GameManager.cs",
@@ -77,8 +93,7 @@
               "RelativeToolTip": "Assets\\Proyecto propio\\Scrips\\GameManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T18:03:31.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-02T18:03:31.011Z"
             }
           ]
         }
